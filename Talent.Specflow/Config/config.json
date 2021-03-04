@@ -1,0 +1,5 @@
+{
+  "BaseURL": "http://app.globaltalent.io/",
+  "ExtendReportPath": "ExtendReport\\",
+  "ConfigPath": "Config\\config.json"
+}
