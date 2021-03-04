@@ -6,6 +6,6 @@ namespace QA.Framework.Extension
 {
     class WebElementExtension
     {
-        // change
+        // loging
     }
 }
